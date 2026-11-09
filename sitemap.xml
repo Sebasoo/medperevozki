@@ -15,26 +15,35 @@
     <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://www.medtransfer.by/mezhgorod/"/>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://www.medtransfer.by/mezhgorod/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.medtransfer.by/mezhgorod/"/>
   </url>
   <url>
     <loc>https://www.medtransfer.by/iz-bolnicy-domoj/</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://www.medtransfer.by/iz-bolnicy-domoj/"/>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://www.medtransfer.by/iz-bolnicy-domoj/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.medtransfer.by/iz-bolnicy-domoj/"/>
+  </url>
+  <url>
+    <loc>https://www.medtransfer.by/perevozka-sidya/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.medtransfer.by/invalidnaya-kolyaska/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.medtransfer.by/podjem-po-lestnice/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.medtransfer.by/cena/</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://www.medtransfer.by/cena/"/>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://www.medtransfer.by/cena/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.medtransfer.by/cena/"/>
   </url>
 </urlset>

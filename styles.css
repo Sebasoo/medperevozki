@@ -728,10 +728,47 @@ a:hover {
   color: var(--brand-deep);
 }
 
+.care-grid a {
+  display: grid;
+  gap: 0.4rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.care-grid a:hover h3 {
+  color: var(--brand);
+}
+
 .care-grid p {
   margin: 0;
   color: var(--ink-muted);
   font-size: 0.92rem;
+}
+
+.care-note {
+  margin: 1.1rem 0 0;
+  color: var(--ink-muted);
+  font-size: 0.95rem;
+}
+
+.page-figure {
+  margin: 0 0 1.5rem;
+}
+
+.page-figure img {
+  width: 100%;
+  max-width: 420px;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 12px;
+  background: #d7e6ef;
+}
+
+.page-figure figcaption {
+  margin-top: 0.45rem;
+  color: var(--ink-muted);
+  font-size: 0.85rem;
+  max-width: 42ch;
 }
 
 .page {
