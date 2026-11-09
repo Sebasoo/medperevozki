@@ -694,45 +694,6 @@ a:hover {
   text-decoration: underline;
 }
 
-.section-scenes {
-  background: linear-gradient(180deg, rgba(31, 95, 122, 0.04), transparent);
-}
-
-.scenes-grid {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  gap: 1.5rem;
-  grid-template-columns: 1fr;
-}
-
-.scenes-grid li {
-  display: grid;
-  gap: 0.65rem;
-}
-
-.scenes-grid img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 14px;
-  background: #d7e6ef;
-}
-
-.scenes-grid h3 {
-  margin: 0;
-  font-size: 1.08rem;
-  color: var(--brand-deep);
-  letter-spacing: -0.02em;
-}
-
-.scenes-grid p {
-  margin: 0;
-  color: var(--ink-muted);
-  font-size: 0.98rem;
-}
-
 .page {
   padding: 1.25rem 0 2.5rem;
 }
@@ -965,11 +926,6 @@ a:hover {
   .service-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0 2rem;
-  }
-
-  .scenes-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1.75rem 1.5rem;
   }
 
   .coverage-grid {
