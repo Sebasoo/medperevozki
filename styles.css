@@ -694,6 +694,46 @@ a:hover {
   text-decoration: underline;
 }
 
+.section-care {
+  padding-top: 0.5rem;
+}
+
+.care-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 1fr;
+}
+
+.care-grid li {
+  display: grid;
+  gap: 0.4rem;
+  max-width: 22rem;
+}
+
+.care-grid img {
+  width: 100%;
+  max-width: 280px;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 12px;
+  background: #d7e6ef;
+}
+
+.care-grid h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--brand-deep);
+}
+
+.care-grid p {
+  margin: 0;
+  color: var(--ink-muted);
+  font-size: 0.92rem;
+}
+
 .page {
   padding: 1.25rem 0 2.5rem;
 }
@@ -926,6 +966,20 @@ a:hover {
   .service-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0 2rem;
+  }
+
+  .care-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.25rem;
+    align-items: start;
+  }
+
+  .care-grid li {
+    max-width: none;
+  }
+
+  .care-grid img {
+    max-width: 100%;
   }
 
   .coverage-grid {
