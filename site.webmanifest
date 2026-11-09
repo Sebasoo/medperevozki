@@ -6,10 +6,10 @@
   "display": "standalone",
   "background_color": "#EAF2F6",
   "theme_color": "#1F5F7A",
-  "lang": "ru-BY",
+  "lang": "ru",
   "icons": [
     {
-      "src": "favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
