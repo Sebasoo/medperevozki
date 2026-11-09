@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://medperevozka.by/</loc>
+    <loc>https://www.medtransfer.by/</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://medperevozka.by/"/>
-    <xhtml:link rel="alternate" hreflang="be" href="https://medperevozka.by/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://medperevozka.by/"/>
+    <xhtml:link rel="alternate" hreflang="ru-BY" href="https://www.medtransfer.by/"/>
+    <xhtml:link rel="alternate" hreflang="be" href="https://www.medtransfer.by/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.medtransfer.by/"/>
   </url>
 </urlset>
